@@ -18,6 +18,12 @@
           "-moz-backface-visibility"
         ]
       }
+    ],
+    "axe/text-alternatives": [
+      "default",
+      {
+        "image-alt": "off"
+      }
     ]
   }
 }
